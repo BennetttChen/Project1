@@ -1,0 +1,27 @@
+# Health Tracker App
+
+## Project Setup
+
+To get started with the project, follow these steps:
+
+1. **Clone the Repository:**
+
+    ```sh
+    git clone <repository-url>
+    cd health-tracker-app
+    ```
+
+2. **Install Dependencies:**
+
+    ```sh
+    npm install
+    ```
+
+3. **Start the HTTP Server:**
+
+    ```sh
+    npm start
+    ```
+
+## Project Structure
+

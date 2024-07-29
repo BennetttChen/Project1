@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "A health and fitness tracking application",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src/frontend -p 3002 -c-1 -o -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Biao Chen",
+    "email": "biaochen@umass.edu"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+
