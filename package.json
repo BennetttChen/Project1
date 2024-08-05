@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "A health and fitness tracking application",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src/frontend -p 3002 -c-1 -o -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Biao Chen <biaochen@umass.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "pouchdb": "^9.0.0",
+    "pouchdb-node": "^9.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": []
+}
