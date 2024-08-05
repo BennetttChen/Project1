@@ -71,7 +71,6 @@ No body is needed for this request.
 ]
 
 
-
 ### Notes:
 
 1. **Detailed API Documentation**: Continue to add detailed documentation for the `diets` and `goals` endpoints, similar to the exercise endpoints.
